@@ -40,6 +40,24 @@ Inspired by [Andrej Karpathy's vision of Obsidian as an AI-augmented graph knowl
 
 2. **AI Agent Skills** — instruction files that turn any AI coding assistant (Antigravity, Claude Code, Cursor, Codex, Windsurf) into a **cognitive psychologist** for your vault. The agent reads your telemetry, finds contradictions in your thinking, connects forgotten notes to active ones, and asks you the uncomfortable questions you've been avoiding.
 
+### What You Get
+
+Once installed, Synapse OS gives you something no other note-taking tool offers — **an AI partner that actually thinks with you:**
+
+- 🔍 **Contradiction Detection** — The agent cross-references your notes and finds places where your thinking contradicts itself. You wrote "health is my priority" six months ago but haven't touched a single health-related note since? The agent will call that out.
+
+- 🔗 **Forgotten Knowledge Revival** — Notes you wrote months ago and never revisited aren't dead weight. The agent connects them to your current active topics, surfacing unexpected insights and opportunities you'd never find by browsing folders.
+
+- 🎯 **Life Balance Visualization** — A live Radar Chart tracks how you actually spend your cognitive energy across six life areas (Health, Career, Intellect, Hobbies, Creativity, Purpose). Not what you *say* matters — what your behavior *shows* matters.
+
+- 🪞 **Honest Reflection** — The agent asks a Shadow Question each session — designed to surface the one truth about your behavior that you're most likely avoiding. If it's comfortable, it's not working.
+
+- 📈 **Progressive Profiling** — Over time, the agent builds a psychological profile of your habits, verified facts, and behavioral patterns. Every interaction makes it sharper — and harder to fool.
+
+- 🛡️ **Full Control, Zero Risk** — The agent never edits your notes directly. Every proposed change goes through a safe Draft Buffer with a visual diff review. You always have the final word.
+
+In short: **your vault becomes a mirror that reveals not just what you know, but what you avoid, what you forgot, and where you're stagnating.**
+
 ### The Core Loop
 
 ```
