@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/synapse-banner.png" alt="Synapse OS Banner" width="800"/>
+  <img src="docs/banner.png" alt="Synapse OS Banner" width="800"/>
 </p>
 
 <h1 align="center">🧠 Synapse OS</h1>
