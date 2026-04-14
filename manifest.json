@@ -1,0 +1,10 @@
+{
+	"id": "synapse-os",
+	"name": "Synapse OS",
+	"version": "1.0.0",
+	"minAppVersion": "1.5.0",
+	"description": "Active Cognitive OS. Analyze, challenge, and develop the intellect and life balance.",
+	"author": "Robert Macků",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}
